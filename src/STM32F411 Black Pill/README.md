@@ -52,9 +52,6 @@ Connected on the default Arduino Wire I2C bus of the Black Pill. Refer to STM32F
 Baud rate: **57600**. The STM32 also echoes the same packet stream over USB Serial at **230400 baud** for direct laptop debugging when connected via USB.
 
 
-```
-
-
 ## Firmware Overview
 
 ### Sampling
